@@ -1,0 +1,85 @@
+14.02.2016 13:44:06	This log contains information about the import operation of the script 'instnwnd.sql' into project 'MentorSQLBasic' on computer 'BIT' by user'user.
+14.02.2016 13:44:06	Started importing file: C:\Users\user\Desktop\instnwnd.sql 
+14.02.2016 13:44:06	File name C:\Users\user\Desktop\instnwnd.sql (size: 2115020)
+14.02.2016 13:44:06	Parsing import script
+14.02.2016 13:44:07	Total number of batches in script: 397
+14.02.2016 13:44:07	Total number of statements in script: 72
+14.02.2016 13:44:07	The script was successfully imported into the project.
+14.02.2016 13:44:07	Analyzing schema objects...
+14.02.2016 13:44:07	Scanning project for duplicate elements
+14.02.2016 13:44:07	Element 'Employees' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Employees.sql'.
+14.02.2016 13:44:07	Element 'Categories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Categories.sql'.
+14.02.2016 13:44:07	Element 'Customers' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Customers.sql'.
+14.02.2016 13:44:07	Element 'Shippers' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Shippers.sql'.
+14.02.2016 13:44:07	Element 'Suppliers' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Suppliers.sql'.
+14.02.2016 13:44:07	Element 'Orders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'Products' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'Order Details' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Order Details.sql'.
+14.02.2016 13:44:07	Element 'CustomerCustomerDemo' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerCustomerDemo.sql'.
+14.02.2016 13:44:07	Element 'CustomerDemographics' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerDemographics.sql'.
+14.02.2016 13:44:07	Element 'Region' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Region.sql'.
+14.02.2016 13:44:07	Element 'Territories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Territories.sql'.
+14.02.2016 13:44:07	Element 'EmployeeTerritories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\EmployeeTerritories.sql'.
+14.02.2016 13:44:07	Element 'Customer and Suppliers by City' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Customer and Suppliers by City.sql'.
+14.02.2016 13:44:07	Element 'Alphabetical list of products' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Alphabetical list of products.sql'.
+14.02.2016 13:44:07	Element 'Current Product List' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Current Product List.sql'.
+14.02.2016 13:44:07	Element 'Orders Qry' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Orders Qry.sql'.
+14.02.2016 13:44:07	Element 'Products Above Average Price' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Products Above Average Price.sql'.
+14.02.2016 13:44:07	Element 'Products by Category' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Products by Category.sql'.
+14.02.2016 13:44:07	Element 'Quarterly Orders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Quarterly Orders.sql'.
+14.02.2016 13:44:07	Element 'Invoices' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Invoices.sql'.
+14.02.2016 13:44:07	Element 'Order Details Extended' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Order Details Extended.sql'.
+14.02.2016 13:44:07	Element 'Order Subtotals' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Order Subtotals.sql'.
+14.02.2016 13:44:07	Element 'Product Sales for 1997' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Product Sales for 1997.sql'.
+14.02.2016 13:44:07	Element 'Category Sales for 1997' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Category Sales for 1997.sql'.
+14.02.2016 13:44:07	Element 'Sales by Category' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Sales by Category.sql'.
+14.02.2016 13:44:07	Element 'Sales Totals by Amount' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Sales Totals by Amount.sql'.
+14.02.2016 13:44:07	Element 'Summary of Sales by Quarter' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Summary of Sales by Quarter.sql'.
+14.02.2016 13:44:07	Element 'Summary of Sales by Year' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Views\Summary of Sales by Year.sql'.
+14.02.2016 13:44:07	Element 'FK_CustomerCustomerDemo' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerCustomerDemo.sql'.
+14.02.2016 13:44:07	Element 'FK_CustomerCustomerDemo_Customers' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerCustomerDemo.sql'.
+14.02.2016 13:44:07	Element 'FK_Territories_Region' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Territories.sql'.
+14.02.2016 13:44:07	Element 'FK_EmployeeTerritories_Employees' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\EmployeeTerritories.sql'.
+14.02.2016 13:44:07	Element 'FK_EmployeeTerritories_Territories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\EmployeeTerritories.sql'.
+14.02.2016 13:44:07	Element 'PK_CustomerCustomerDemo' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerCustomerDemo.sql'.
+14.02.2016 13:44:07	Element 'PK_CustomerDemographics' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\CustomerDemographics.sql'.
+14.02.2016 13:44:07	Element 'PK_Region' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Region.sql'.
+14.02.2016 13:44:07	Element 'PK_Territories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Territories.sql'.
+14.02.2016 13:44:07	Element 'PK_EmployeeTerritories' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\EmployeeTerritories.sql'.
+14.02.2016 13:44:07	Element 'LastName' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Employees.sql'.
+14.02.2016 13:44:07	Element 'PostalCode' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Employees.sql'.
+14.02.2016 13:44:07	Element 'CategoryName' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Categories.sql'.
+14.02.2016 13:44:07	Element 'City' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Customers.sql'.
+14.02.2016 13:44:07	Element 'CompanyName' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Customers.sql'.
+14.02.2016 13:44:07	Element 'PostalCode' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Customers.sql'.
+14.02.2016 13:44:07	Element 'Region' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Customers.sql'.
+14.02.2016 13:44:07	Element 'CompanyName' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Suppliers.sql'.
+14.02.2016 13:44:07	Element 'PostalCode' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Suppliers.sql'.
+14.02.2016 13:44:07	Element 'CustomerID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'CustomersOrders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'EmployeeID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'EmployeesOrders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'OrderDate' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'ShippedDate' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'ShippersOrders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'ShipPostalCode' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Orders.sql'.
+14.02.2016 13:44:07	Element 'CategoriesProducts' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'CategoryID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'ProductName' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'SupplierID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'SuppliersProducts' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Products.sql'.
+14.02.2016 13:44:07	Element 'OrderID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Order Details.sql'.
+14.02.2016 13:44:07	Element 'OrdersOrder_Details' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Order Details.sql'.
+14.02.2016 13:44:07	Element 'ProductID' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Order Details.sql'.
+14.02.2016 13:44:07	Element 'ProductsOrder_Details' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Tables\Order Details.sql'.
+14.02.2016 13:44:07	Element 'Ten Most Expensive Products' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\Ten Most Expensive Products.sql'.
+14.02.2016 13:44:07	Element 'Employee Sales by Country' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\Employee Sales by Country.sql'.
+14.02.2016 13:44:07	Element 'Sales by Year' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\Sales by Year.sql'.
+14.02.2016 13:44:07	Element 'CustOrdersDetail' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\CustOrdersDetail.sql'.
+14.02.2016 13:44:07	Element 'CustOrdersOrders' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\CustOrdersOrders.sql'.
+14.02.2016 13:44:07	Element 'CustOrderHist' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\CustOrderHist.sql'.
+14.02.2016 13:44:07	Element 'SalesByCategory' was merged into the existing script: 'c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\dbo\Stored Procedures\SalesByCategory.sql'.
+14.02.2016 13:44:08	Finished duplicate element processing
+14.02.2016 13:44:08	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+14.02.2016 13:44:08	A summary of the import was saved to the following location: c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\Import Script Logs\instnwnd_sql_20160214104406.log
+14.02.2016 13:44:08	Click Finish to continue...

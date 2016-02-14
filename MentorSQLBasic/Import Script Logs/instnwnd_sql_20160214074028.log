@@ -1,0 +1,13 @@
+14.02.2016 10:40:28	This log contains information about the import operation of the script 'instnwnd.sql' into project 'MentorSQLBasic' on computer 'BIT' by user'user.
+14.02.2016 10:40:28	Started importing file: C:\Users\user\Desktop\instnwnd.sql 
+14.02.2016 10:40:28	File name C:\Users\user\Desktop\instnwnd.sql (size: 2115020)
+14.02.2016 10:40:28	Parsing import script
+14.02.2016 10:40:29	Total number of batches in script: 397
+14.02.2016 10:40:29	Total number of statements in script: 72
+14.02.2016 10:40:29	The script was successfully imported into the project.
+14.02.2016 10:40:29	Analyzing schema objects...
+14.02.2016 10:40:29	Scanning project for duplicate elements
+14.02.2016 10:40:29	Finished duplicate element processing
+14.02.2016 10:40:31	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+14.02.2016 10:40:31	A summary of the import was saved to the following location: c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\Import Script Logs\instnwnd_sql_20160214074028.log
+14.02.2016 10:40:31	Click Finish to continue...

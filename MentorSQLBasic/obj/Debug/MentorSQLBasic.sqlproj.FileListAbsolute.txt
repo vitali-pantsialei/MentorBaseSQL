@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\bin\Debug\MentorSQLBasic.dacpac
+c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\bin\Debug\MentorSQLBasic.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\bin\Debug\MentorSQLBasic.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\obj\Debug\MentorSQLBasic.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorSQLBasic\MentorSQLBasic\obj\Debug\MentorSQLBasic.pdb
