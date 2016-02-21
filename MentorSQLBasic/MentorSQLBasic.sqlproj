@@ -63,6 +63,7 @@
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="Scripts\" />
     <Folder Include="Scripts\Queries" />
+    <Folder Include="Scripts\QueriesPart2" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Employees.sql" />
@@ -110,5 +111,12 @@
     <None Include="Scripts\Queries\Scripts2.2.sql" />
     <None Include="Scripts\Queries\Scripts2.3.sql" />
     <None Include="Scripts\Queries\Script2.4.sql" />
+    <None Include="Scripts\QueriesPart2\Scripts2.1.sql" />
+    <None Include="Scripts\QueriesPart2\Scripts2.2.sql" />
+    <None Include="Scripts\QueriesPart2\Scripts2.3.sql" />
+    <None Include="Scripts\QueriesPart2\Scripts2.4.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\AddDataScript.PostDeployment.sql" />
   </ItemGroup>
 </Project>
