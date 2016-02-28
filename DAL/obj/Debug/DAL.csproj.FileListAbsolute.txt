@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\bin\Debug\DAL.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\bin\Debug\DAL.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\obj\Debug\DAL.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\DAL\obj\Debug\DAL.pdb
