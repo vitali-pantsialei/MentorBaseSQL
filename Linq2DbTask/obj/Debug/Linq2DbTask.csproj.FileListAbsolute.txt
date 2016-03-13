@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\bin\Debug\Linq2DbTask.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\bin\Debug\Linq2DbTask.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\bin\Debug\Linq2DbTask.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\bin\Debug\linq2db.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\bin\Debug\linq2db.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\obj\Debug\Linq2DbTask.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\obj\Debug\Linq2DbTask.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\Linq2DbTask\obj\Debug\Linq2DbTask.pdb

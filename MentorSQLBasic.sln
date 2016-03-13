@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALTest", "DALTest\DALTest.csproj", "{F2D2D9F6-C451-4B85-A0D2-4B5936778B5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2DbTask", "Linq2DbTask\Linq2DbTask.csproj", "{A737D7F6-6B2E-44C0-BEE4-2768307DE708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2DbTests", "Linq2DbTests\Linq2DbTests.csproj", "{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{F2D2D9F6-C451-4B85-A0D2-4B5936778B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D2D9F6-C451-4B85-A0D2-4B5936778B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D2D9F6-C451-4B85-A0D2-4B5936778B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A737D7F6-6B2E-44C0-BEE4-2768307DE708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737D7F6-6B2E-44C0-BEE4-2768307DE708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737D7F6-6B2E-44C0-BEE4-2768307DE708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737D7F6-6B2E-44C0-BEE4-2768307DE708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
