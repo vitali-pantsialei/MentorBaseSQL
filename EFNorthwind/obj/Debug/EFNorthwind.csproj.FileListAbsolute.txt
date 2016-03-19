@@ -1,0 +1,14 @@
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EFNorthwind.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EFNorthwind.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EFNorthwind.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EntityFramework.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EntityFramework.xml
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.Migrations.Version1.resources
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.Migrations.Version2.resources
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFNorthwind\obj\Debug\EFNorthwind.Migrations.Version3.resources

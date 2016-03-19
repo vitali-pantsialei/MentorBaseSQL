@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2DbTask", "Linq2DbTask\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2DbTests", "Linq2DbTests\Linq2DbTests.csproj", "{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFNorthwind", "EFNorthwind\EFNorthwind.csproj", "{CEB29656-08B1-4057-A934-D0E40B1FD2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTests", "EFTests\EFTests.csproj", "{39C729EB-18D7-41D4-A6A8-37FF5C6DAF58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,14 @@ Global
 		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE96D87-46FF-48E2-9CF4-24D003EBE4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB29656-08B1-4057-A934-D0E40B1FD2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB29656-08B1-4057-A934-D0E40B1FD2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB29656-08B1-4057-A934-D0E40B1FD2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB29656-08B1-4057-A934-D0E40B1FD2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C729EB-18D7-41D4-A6A8-37FF5C6DAF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C729EB-18D7-41D4-A6A8-37FF5C6DAF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C729EB-18D7-41D4-A6A8-37FF5C6DAF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C729EB-18D7-41D4-A6A8-37FF5C6DAF58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

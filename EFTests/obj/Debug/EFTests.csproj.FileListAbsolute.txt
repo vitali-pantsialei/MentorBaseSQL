@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\obj\Debug\EFTests.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EFTests.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EFTests.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EFTests.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EFNorthwind.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EntityFramework.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EFNorthwind.pdb
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EntityFramework.xml
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\obj\Debug\EFTests.dll
+C:\Users\user\documents\visual studio 2013\Projects\MentorSQLBasic\EFTests\obj\Debug\EFTests.pdb
